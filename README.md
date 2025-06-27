@@ -10,11 +10,11 @@
 ![node.js](https://img.shields.io/badge/node.js-239120?&style=for-the-badge&logo=node.js&logoColor=white) 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-14354C?style=for-the-badge&logo=Thymeleaf&logoColor=white) 
 ![jpa](https://img.shields.io/badge/Jpa-E34F26?style=for-the-badge&logo=Jpa&logoColor=white) 
-<br>
+
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
-<br> 
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
  
 ![hello](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)
