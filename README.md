@@ -16,6 +16,6 @@
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![monggoDB](https://img.shields.io/badge/monggoDB-B71C1C?style=for-the-badge&logo=monggoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongoDB-B71C1C?style=for-the-badge&logo=mongoDB&logoColor=white)
 
 </details>
