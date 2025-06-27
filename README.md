@@ -6,7 +6,7 @@
    <br>
   
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
-![jpa-hibernate](https://img.shields.io/badge/Jpa-Hibernate-E34F26?style=for-the-badge&logo=Jpa-Hibernate&logoColor=white) 
+![jpa-hibernate](https://img.shields.io/badge/Jpa+Hibernate-E34F26?style=for-the-badge&logo=Jpa+Hibernate&logoColor=white) 
 ![node.js](https://img.shields.io/badge/node.js-239120?&style=for-the-badge&logo=node.js&logoColor=white) 
 ![jsp](https://img.shields.io/badge/jsp-20232A?style=for-the-badge&logo=jsp&logoColor=61DAFB)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
