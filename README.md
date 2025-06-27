@@ -1,6 +1,4 @@
-[![Typing SVG](https://github.com/moooonbong?font=Fira+Code&pause=998&width=435&lines=Welcome+to+My+Space)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=1000&color=#F7526FFF&center=true&vCenter=true&width=435&lines=Welcome+to_My+House!)](https://git.io/typing-svg)
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 갈고 닦고 있는...
