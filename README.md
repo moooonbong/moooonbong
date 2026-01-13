@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=30&pause=1000&color=F7526F&background=FFF5E600&center=true&multiline=true&random=true&width=442&height=64&lines=Welcome+to+My+House!)](https://git.io/typing-svg)
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d2e2e,100:ce3b3b&height=180&text=Welcome%20To%20My%20Area&animation=twinkling&fontColor=ede3d9&fontSize=60" />
