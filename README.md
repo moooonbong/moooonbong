@@ -5,6 +5,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 개발과 부쩍 가까워질 그날까지.. </div> 
     </div>
     <div align= "center">
