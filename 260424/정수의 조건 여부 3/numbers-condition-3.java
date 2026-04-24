@@ -6,8 +6,8 @@ public class Main {
         int input = sc.nextInt();
 
         if (input % 13 == 0 || input % 19 ==0)
-            System.out.println(true);
+            System.out.println("True");
         else 
-            System.out.println(false);
+            System.out.println("False");
     }
 }
