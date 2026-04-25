@@ -7,7 +7,9 @@ public class Main {
 
         for (int x=1; x<=input; x++){
             for (int y=1; y<=input; y++){
-                System.out.print(x + " * " + y + " = " + (x*y));
+                System.out.print(x + " * " + y + " = " + (x * y));
+                if (y==input) continue;
+                System.out.print(", ");
             }
             System.out.println();
         }
