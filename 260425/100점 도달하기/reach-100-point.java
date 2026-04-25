@@ -6,16 +6,16 @@ public class Main {
         int input = sc.nextInt();
 
         for (int x=input; x<=100; x++){
-            if (input >= 90)
-                System.out.println("A");
-            else if (input >= 80)
-                System.out.println("B");
-            else if (input >= 70)
-                System.out.println("C");
-            else if (input >= 60)
-                System.out.println("D");
+            if (x >= 90)
+                System.out.print("A ");
+            else if (x >= 80)
+                System.out.print("B ");
+            else if (x >= 70)
+                System.out.print("C ");
+            else if (x >= 60)
+                System.out.print("D ");
             else
-                System.out.println("F");
+                System.out.print("F ");
         }
     }
 }
